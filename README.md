@@ -1,6 +1,8 @@
 This project was created with the aim of creat a random 25 char key in hexadecimal(0-9, A-F).
 It was for a friend of mine, but you can make a key with the lenght you want to. Blanks are defined in the "build/AffichageCle.c" file.
 
+For the "Generating.... X%", Knonn helped me with his concept that I incrased. You can see him at https://github.com/knonn
+
 Keys are wrote in the "keys.txt" file. Everytime the programm is used, the key is wrote in this file (at the end).
 
 To make all files needed to launch the program, use "make all".
